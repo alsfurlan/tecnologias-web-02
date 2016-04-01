@@ -1,20 +1,19 @@
-/*
- Comentários em CSS
-*/
-
 body {
-	background-color: lightcyan;
-	width: 800px;	
-	margin: auto; 
+    background: linen;
+    width: 500px;
+    margin: 200px auto;
 }
 
-h1 {
-	color: maroon;
-	text-align: center;
+div {
+    border: 5px solid maroon;
+    text-align: center;
+    padding: 5px;
 }
 
 p {
-	color: gray;
-	border: 1px solid gray;
-	padding: 10px;
+    border: 2px dashed blue;
+}
+
+figure {
+	text-align: center;
 }
