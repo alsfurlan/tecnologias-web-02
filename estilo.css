@@ -1,16 +1,16 @@
 body {
-	background-color: #E0FFFF;
+	background-color: rgb(224, 255, 255);
 	width: 800px;	
 	margin: auto;
 }
 
 h1 {
-	color: 	#800000;
+	color: 	rgb(128, 0,	0);
 	text-align: center;
 }
 
 p {
-	color: 	#808080;
-	border: 1px solid #808080;
+	color: 	rgb(128,128,128);
+	border: 1px solid rgb(128,128,128);
 	padding: 10px;
 }
