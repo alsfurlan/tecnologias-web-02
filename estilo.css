@@ -11,6 +11,7 @@ li:first-child {
     background: yellow;
 }
 
-li:nth-child(2) {
+li:nth-child(2),
+#primeiroParagrafo {
     background: orange;
 }
