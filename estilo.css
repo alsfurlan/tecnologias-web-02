@@ -1,12 +1,8 @@
-a {
-    color: cornflowerblue;
-    text-decoration: none;  /* Remove o underline padrão dos navegadores*/
+ol {
+    border: 5px solid darksalmon;
+    border-radius: 10px;
 }
 
-a:visited {
-    color: tomato;
-}
-
-a:hover {
-	text-decoration: underline;
+li {
+    color: brown;
 }
