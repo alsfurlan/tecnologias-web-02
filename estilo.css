@@ -1,24 +1,17 @@
-main {
-    width: 500px;
-    margin: auto;
-    background: gray;
-    overflow: auto;
-}
-
-nav {
-    /* border: 3px solid black; */
-    width: 100px;
-    float: right;
-}
-
-nav p {
+* {
     margin: 0;
     padding: 0;
 }
 
-p {
-    margin: 0;
-    padding: 10px;
+nav {
     float: left;
-    width: 380px;
+    background: darkgray;
+}
+
+main {
+    background: lightgray;
+}
+
+footer {
+    background: gray;
 }
