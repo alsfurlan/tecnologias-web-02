@@ -1,7 +1,14 @@
+body {
+	font-size: 100%; 
+}
+
 h1 {
+	font-size: xx-large; 
     font-family: 'Denk One', sans-serif;
 }
 
 p {
+
+	font-size: medium; 
 	font-family: 'Ubuntu', sans-serif;
 }
