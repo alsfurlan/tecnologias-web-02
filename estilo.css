@@ -2,6 +2,7 @@ main {
     width: 500px;
     margin: auto;
     background: gray;
+    overflow: auto;
 }
 
 nav {
