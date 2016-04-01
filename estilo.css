@@ -1,18 +1,7 @@
-* {
-    margin: 0;
-    padding: 0;
+h1 {
+    font-family: 'Denk One', sans-serif;
 }
 
-nav {
-    float: left;
-    background: darkgray;
-}
-
-main {
-    background: lightgray;
-}
-
-footer {
-    background: gray;
-    clear: left;
+p {
+	font-family: 'Ubuntu', sans-serif;
 }
