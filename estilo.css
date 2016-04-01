@@ -1,7 +1,11 @@
-p {
-    color: yellow;
+body {
+    background: yellow;
 }
 
-p {
-    color: green;
+h1 {
+    color: red;
+}
+
+h2 {
+    background: green;
 }
