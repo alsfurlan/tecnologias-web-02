@@ -1,17 +1,7 @@
-ol {
-    border: 5px solid darksalmon;
-    border-radius: 10px;
+p {
+    color: yellow;
 }
 
-.conteudo li {
-    color: brown;
-}
-
-li:first-child {
-    background: yellow;
-}
-
-li:nth-child(2),
-#primeiroParagrafo {
-    background: orange;
+p.destaque {
+    color: green;
 }
