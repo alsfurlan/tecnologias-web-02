@@ -1,16 +1,20 @@
+/*
+ Comentários em CSS
+*/
+
 body {
-	background-color: rgb(224, 255, 255);
+	background-color: lightcyan;
 	width: 800px;	
-	margin: auto;
+	margin: auto; 
 }
 
 h1 {
-	color: 	rgb(128, 0,	0);
+	color: maroon;
 	text-align: center;
 }
 
 p {
-	color: 	rgb(128,128,128);
-	border: 1px solid rgb(128,128,128);
+	color: gray;
+	border: 1px solid gray;
 	padding: 10px;
 }
