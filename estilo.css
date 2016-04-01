@@ -6,3 +6,7 @@ ol {
 .conteudo li {
     color: brown;
 }
+
+li:first-child {
+    background: yellow;
+}
